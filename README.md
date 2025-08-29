@@ -38,7 +38,7 @@ Let’s connect and see how we can make a difference together!
     </tr>
     <tr>
       <td>⬇</td>
-      <td><a href=>Download my CV</a></td>
+      <td><a href="SHEHALA FATHIMA P.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
