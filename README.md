@@ -12,6 +12,7 @@ I bring a curious mindset, attention to detail, and a willingness to learn, with
 *Calicut University (2022-2025)*
 
 ## 📊 Projects
+![image]()
 
 ## 📜 Certifications 
 
