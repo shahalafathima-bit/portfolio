@@ -42,7 +42,7 @@ Let’s connect and see how we can make a difference together!
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href=">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/shehala-fathima">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
