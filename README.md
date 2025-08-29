@@ -11,6 +11,14 @@ I bring a curious mindset, attention to detail, and a willingness to learn, with
 -**Bachelors in Business Administration**
 *Calicut University (2022-2025)*
 
+## 📊 Projects
+
+## 📜 Certifications 
+
+## 🧠 Tools & Skills  
+
+## 🎯 Interests  
+
 ## 📫 Contact Details
 Let’s connect and see how we can make a difference together!  
 
